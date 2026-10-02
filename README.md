@@ -1,1 +1,1 @@
-Class: IT1100, Name: Carol, Semester: f26
+Class: IT1100, Name: Michael, Semester: f26
